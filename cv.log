@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2020.7.30)  11 OCT 2020 02:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2020.7.30)  11 OCT 2020 13:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -444,114 +444,66 @@ LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <14.4> not available
 (Font)              Font shape `OT1/pbk/l/it' tried instead on input line 22.
 
-Overfull \hbox (5.23293pt too wide) in paragraph at lines 24--25
-\OT1/pbk/l/n/10 im-ple-men-ta-tion of ob-ject de-tec-tion and ob-ject track-
+Overfull \hbox (8.24481pt too wide) in paragraph at lines 24--25
+\OT1/pbk/l/n/10 stream, with help of com-puter vi-sion and deep learn-
+ []
+
+\raising=\dimen137
+
+Underfull \hbox (badness 6691) in paragraph at lines 74--74
+[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
  []
 
 
-Overfull \hbox (12.13606pt too wide) in paragraph at lines 28--29
-\OT1/pbk/l/it/14.4 Soft-ware and Hard-ware De-vel-op-ment
- []
-
-
-Overfull \hbox (15.91231pt too wide) in paragraph at lines 30--31
-\OT1/pbk/l/n/10 data from an OS-RAM Opto Semi-con-duc-tor (SFH7070).
- []
-
-
-Overfull \hbox (12.76224pt too wide) in paragraph at lines 42--43
-[]\OT1/pbk/l/n/10 Hardware pro-gram-ming for STM32 Arm Cor-tex MCUs
- []
-
-
-Overfull \hbox (5.74222pt too wide) in paragraph at lines 46--47
-\OT1/pbk/l/it/14.4 Soft-ware De-vel-op-ment and Re-search
- []
-
-
-Overfull \hbox (0.6639pt too wide) in paragraph at lines 55--56
-[]\OT1/pbk/l/n/10 Implementing IoT pro-to-cols (e.g., Zig-bee) and work-
- []
-
-
-Overfull \hbox (9.71233pt too wide) in paragraph at lines 55--56
-\OT1/pbk/l/n/10 for test and sim-u-late smart grids at [][]Farineh Fanavar[][].
- 
- []
-
-\boxwidth=\dimen137
-(d:/Installed/texlive/2017/texmf-dist/tex/latex/marvosym/umvs.fd)
-(d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd)
-
-Underfull \hbox (badness 10000) in paragraph at lines 64--64
-[]|[][]\OT1/pbk/l/n/10 www.linkedin.com/in/mohammad-
+Underfull \hbox (badness 6691) in paragraph at lines 74--74
+[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
  []
 
 \raising=\dimen138
 
-Underfull \hbox (badness 1077) in paragraph at lines 110--110
-[]|\OT1/pbk/l/it/10 Writing smart con-tracts us-ing so-lid-ity
+Overfull \hbox (48.76944pt too wide) in paragraph at lines 77--82
+[] 
  []
 
+\boxwidth=\dimen139
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/marvosym/umvs.fd)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd)
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
-
- []
-
-\raising=\dimen139
-[1{d:/Installed/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
-]
-Underfull \hbox (badness 6691) in paragraph at lines 123--123
-[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
- []
-
-
-Underfull \hbox (badness 6691) in paragraph at lines 123--123
-[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|[][]\OT1/pbk/l/n/10 www.linkedin.com/in/mohammad-
  []
 
 \raising=\dimen140
 
-Overfull \hbox (42.40831pt too wide) in paragraph at lines 126--131
-[] 
+Underfull \hbox (badness 1117) in paragraph at lines 132--132
+[]|\OT1/pbk/l/it/10 Implemented Zig-bee pro-to-col on XBee
  []
 
 \raising=\dimen141
 \unbaseline=\dimen142
-\raising=\dimen143
-\unbaseline=\dimen144
-\raising=\dimen145
-
-Overfull \hbox (52.39197pt too wide) in paragraph at lines 154--175
-[] 
- []
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+[1{d:/Installed/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
-Overfull \hbox (52.39197pt too wide) in paragraph at lines 175--180
-[] 
- []
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
- (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
+(./cv.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10414 strings out of 492995
- 158892 string characters out of 6131752
- 361272 words of memory out of 5000000
- 13872 multiletter control sequences out of 15000+600000
+ 10410 strings out of 492995
+ 158854 string characters out of 6131752
+ 361257 words of memory out of 5000000
+ 13871 multiletter control sequences out of 15000+600000
  16051 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,11n,53p,8843b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/Installed/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/Install
-ed/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<d:/I
+ 47i,11n,53p,8843b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Installed/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesome
+two.enc}{d:/Installed/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/I
 nstalled/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 ><d:/Installed/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
 ><d:/Installed/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
@@ -560,10 +512,10 @@ nstalled/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 stalled/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb><d:/Installe
 d/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb><d:/Installed/tex
 live/2017/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on cv.pdf (2 pages, 93643 bytes).
+Output written on cv.pdf (1 page, 88396 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
- 68 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
+ 68 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
