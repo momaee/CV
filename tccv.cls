@@ -103,9 +103,9 @@
 %
 % |[
 % \personal[optional: web site without scheme (no http:// prefix)]
-%          {address}{phone number}{email}
+%          {address}{phone number}{email}{github}
 % ]|
-\newcommand\personal[4][]{%
+\newcommand\personal[5][]{%
     \needspace{0.5\textheight}%
     \newdimen\boxwidth%
     \boxwidth=\dimexpr\linewidth-2\fboxsep\relax%
@@ -114,7 +114,8 @@
     \Writinghand & {#2}\smallskip\\
     \Telefon     & {#3}\smallskip\\
     \Letter      & \href{mailto:#4}{#4}
-    \ifstrempty{#1}{}{\smallskip\\ \Lightning & \href{http://#1}{#1}}
+    \ifstrempty{#1}{}{\smallskip\\ \faLinkedin & \href{http://#1}{#1}}
+    \ifstrempty{#5}{}{\smallskip\\ \faGithub & \href{http://#5}{#5}}
     \end{tabularx}}}
 
 % Every \item can be followed by one or more paragraphs

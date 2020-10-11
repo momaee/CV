@@ -1,30 +1,48 @@
 \documentclass{tccv}
 \usepackage[english]{babel}
+\usepackage{supertabular}
+\usepackage{fontawesome}
+
+
+% Command for entering a separate table row -- used as a generic visual element for any section that uses a two column table
+\newcommand{\tableentry}[3]{
+	\textsc{#1} & #2\expandafter\ifstrequal\expandafter{#3}{}{\\}{\\[6pt]} % First the heading, then content, then a conditional insertion of whitespace if the third parameter has any content in it
+}
 
 \begin{document}
 
 \part{Mohammad Mahmoodian}
 
-\section{Work experience}
+\section{Work Experiences}
 
 \begin{eventlist}
 
-\item{September 2019 -- Present}
-     {PAD Lab in University of Tehran}
-     {Software Development and Research Assistance}
+\item{March 2020}
+{Freelance}
+{Software Development}
 
-Working on Ethereum client especially go implementation of it, known as Geth.
+Real-time people counting for video stream, with help of computer vision and deep learning. Smart implementation of object detection and object tracking.
+
+\item{August 2020}
+{Freelance}
+{Software and Hardware Development}
+
+Programming a nordic nRF52840 Soc to capture data from an OSRAM Opto Semiconductor (SFH7070). Developing an app in Android Studio to communicate with the nRF through the BLE and display the captured data.
+
+\item{September 2019 -- Present}
+     {PAD Lab, UTSTPark, Tehran, Iran}
+     {Blockchain Development}
+     
+Working on popular cryptocurrency source codes (i.e. Bitcoin, Ethereum, TON, Neo, etc.) at \href{www.padlab.ir}{PAD} (Processing and Analysis Data) lab under the supervision of \href{www.mahsan.co}{Mahsan Co.} in the \href{www.utstpark.ir}{UTSTPark} (University of Tehran Science and Technology Park).
 
 \item{March 2019 -- September 2019}
      {Datis, Tehran, Iran}
      {Hardware Development}
 
-Hardware programming on STM32 Discovery boards and development of elevator
-drives at \href{www.datis-elevator.ir}{Datis Elevator}.
-
+Hardware programming for STM32 Arm Cortex MCUs and development of elevator drives at \href{www.datis-elevator.ir}{Datis Elevator}.
 
 \item{February 2017 -- Present}
-     {MCS Lab in University of Tehran}
+     {MCS Lab in the University of Tehran}
      {Software Development and Research Assistance}
 
 Working on Linux-based operating systems (e.g., OpenWrt) and installing them on Wi-Fi routers.
@@ -34,10 +52,7 @@ Development of IP networking and DNS applications.
      {Farineh Fanavar, Tehran, Iran}
      {Software Development}
 
-Implementing IoT protocols (e.g., Zigbee) and working on smart grids using
-new interesting technology, blockchain, and smart contracts. Working with tools
-such as truffle and geth for test and simulate smart grids
-at \href{http://farinehtech.com/}{Farineh Fanavar}.
+Implementing IoT protocols (e.g., Zigbee) and working on smart grids using new interesting technology, blockchain, and smart contracts. Working with tools such as truffle and Geth (Go Ethereum) for test and simulate smart grids at \href{http://farinehtech.com/}{Farineh Fanavar}.
 
 \end{eventlist}
 
@@ -46,26 +61,34 @@ at \href{http://farinehtech.com/}{Farineh Fanavar}.
     {Tehran, Iran}
     {+98 (938) 3172746}
     {mahmoodian@ut.ac.ir}
-
-\section{Education}
-
-\begin{yearlist}
-\item[Master of Science]{2017 -- Present}
-     {Electrical Engineering - Network Communications}
-     {University of Tehran\newline GPA: 18.8 \newline Rank: 1}
-
-\item[Bachelor of Science]{2013 -- 2017}
-     {Electrical Engineering - Communications}
-     {University of Tehran.\newline GPA: 18.4 \newline Rank: 8}
-\end{yearlist}
+    {www.github.com/momaee}
 
 \section{Projects}
 
 \begin{yearlist}
+\item{2020}
+{OpenCV}
+	{Implementing a real-time people counter using OpenCV, SciPy, etc. in Python language programming.}
+
+\item{2020}
+	{Android Studio}
+	{Developing an app in Android Studio in Java programming language to connect to a device through BLE and display received data.}
+
+\item{2020}
+	{Nordic nRF}
+	{Working on Nordic nRF52840 SoC and programming the chip, in C programming language using Keil IDE.}
+
+\item{2020}
+	{NEO Cryptocurrency Source Code}
+	{Editing NEO client source code in C\# programming language.}
+
+\item{2020}
+	{TON Cryptocurrency Source Code}
+	{Editing TON (Telegram Open Network) client source code and adding some features to it (e.g. writing data onto CassandraDB, Neo4jDB, LevelDB, etc.).}
 
 \item{2019}
      {Geth}
-     {Editing go-ethereum(official Go implementation of Ethereum protocol) and adding some features to it.}
+     {Working on Go-Ethereum (official Go implementation of Ethereum protocol) and adding some features to it.}
 
 \item{2019}
      {STM32 Discovery Kit}
@@ -84,31 +107,75 @@ at \href{http://farinehtech.com/}{Farineh Fanavar}.
 \item{2017}
      {OpenWrt}
      {Installation of OpenWrt on routers.}
-
 \end{yearlist}
 
-% \section{Communication skills}
-%
-% \begin{factlist}
-% \item{Persian}{Native speaker}
-% \item{English}{Good}
-% \end{factlist}
+\textbf{\\}
 
-\section{Software and hardware skills}
+\section{Education}
+\begin{yearlist}
+	\item[Master of Science]{2017 -- Present}
+	{Electrical Engineering - Network Communications}
+	{University of Tehran\newline GPA: 18.8 \newline Rank: 1}
+	
+	\item[Bachelor of Science]{2013 -- 2017}
+	{Electrical Engineering - Communications}
+	{University of Tehran.\newline GPA: 18.4 \newline Rank: 8}
+\end{yearlist}
 
+\section{Selected Courses}
+\begin{tabular}{ll}
+	Pattern Recognition ($\frac{19.2}{20}$)	&Advanced Programming ($\frac{18}{20}$) \\
+	Data Networks ($\frac{20}{20}$)			&Distributed Optimization ($\frac{19}{20}$) \\
+	Stochastic Processes ($\frac{19}{20}$)	&Cellar Networks ($\frac{20}{20}$)
+\end{tabular}
+
+\section{Software and Hardware Skills}
 \begin{factlist}
 
 \item{Good level}
-     {Python, Go, Solidity, C, C++, HTML, git, Cryptocurrency
-      JavaScript, Linux, Restful APIs, IP Networking, Matlab}
+     {Python, OpenCV, NumPy, SciPy, Scikit-learn, MNIST, SVM, Go, Solidity, C, C++, C\#, Java, Android Studio, git, Cryptocurrency, Linux, Restful APIs, IP Networking, Matlab, Neo4j Database, LevelDB, Cassandra Database, MongoDB}
 
 \item{Intermediate}
      {Hyperledger, \LaTeX, LabVIEW, Keil, ModelSim, Quartus,
-     Wireshark, shell, AVR, Verilog}
+     Wireshark, shell, AVR, Verilog, HTML, JavaScript}
 
 \item{Basic level}
      {Windows, Microsoft Word, PSpice, HSpice}
 
 \end{factlist}
+
+\section{Communication Skills}
+\begin{factlist}
+	\item{Persian}{Native speaker}
+	\item{English}{Good}
+\end{factlist}
+
+\section{References}  
+\begin{supertabular}{rl}
+		
+	\tableentry{}{\textbf{\href{https://ece.ut.ac.ir/en/~bahrak}{Dr. Behnam Bahrak}}}{}
+	\tableentry{Position}{Assistant Professor}{}
+	\tableentry{}{\href{http://ece.ut.ac.ir/en}{School of Electrical and Computer Engineering}}{}
+	\tableentry{}{\href{https://ut.ac.ir/en}{\textit{University of Tehran}}}{}
+	%  \tableentry{Email}{\href{mailto:m.davarpanah@ut.ac.ir}{m.davarpanah@ut.ac.ir}}{}
+	
+	\tableentry{}{\textbf{\href{https://ece.ut.ac.ir/en/~vmansouri}{Dr. Vahid Shahmansouri}}}{}
+	\tableentry{Position}{Assistant Professor}{}
+	\tableentry{}{\href{http://ece.ut.ac.ir/en}{School of Electrical and Computer Engineering}}{}
+	\tableentry{}{\href{https://ut.ac.ir/en}{\textit{University of Tehran}}}{}
+	%  \tableentry{Email}{\href{mailto:vmansouri@ut.ac.ir}{vmansouri@ut.ac.ir}}{spaceafter}
+	
+	\tableentry{}{\textbf{\href{https://www.linkedin.com/in/masih-nilchian/?originalSubdomain=ch}{Dr. Masih Nilchian}}}{}
+	\tableentry{Position}{Chief Technology Officer}{}
+	\tableentry{}{\href{https://mypulses.com/}{MyPulses Co.}}{}
+%	\tableentry{}{\href{https://ut.ac.ir/en}{\textit{University of Tehran}}}{}
+	%  \tableentry{Email}{\href{mailto:}{}}{}
+	
+	 \tableentry{}{\textbf{\href{https://ece.ut.ac.ir/en/~araabi}{Dr. Babak Nadjar Araabi}}}{}
+	\tableentry{Position}{Professor}{}
+	\tableentry{}{\href{http://ece.ut.ac.ir/en}{School of Electrical and Computer Engineering}}{}
+	\tableentry{}{\href{https://ut.ac.ir/en}{\textit{University of Tehran}}}{}
+	%  \tableentry{Email}{\href{mailto:}{}}{}
+\end{supertabular}
 
 \end{document}

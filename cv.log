@@ -1,45 +1,64 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.12.10)  14 DEC 2019 20:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2020.7.30)  11 OCT 2020 02:22
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/pc-17/Desktop/CV/cv.tex
-(/home/pc-17/Desktop/CV/cv.tex
-LaTeX2e <2018-04-01> patch level 5
-(/home/pc-17/Desktop/CV/tccv.cls
+**./cv.tex
+(./cv.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(./tccv.cls
 Document Class: tccv 2012/11/09 v1.0 Two Column Curriculum Vitae
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrartcl.cls
-Document Class: scrartcl 2018/03/30 v3.25 KOMA-Script document class (article)
-(/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
-Package: scrkbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2018/03/30 v3.25 KOMA-Script package (KOMA-Script-independent basics and keyval usage)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
-) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
-Package: scrlfile 2018/03/30 v3.25 KOMA-Script package (loading files)
-))) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/tocbasic.sty
-Package: tocbasic 2018/03/30 v3.25 KOMA-Script package (handling toc-files)
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2017/04/13 v3.23 KOMA-Script package (loading files)
+
+Package scrlfile, 2017/04/13 v3.23 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2017/04/13 v3.23 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip41
 \scr@dte@tocline@numbox=\box26
 )
 Package tocbasic Info: omitting babel extension for `toc'
 (tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `toc' on input line 134.
+(tocbasic)             for `toc' on input line 131.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 133.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 134.
 Package scrartcl Info: You've used standard option `10pt'.
 (scrartcl)             This is correct!
 (scrartcl)             Internally I'm using `fontsize=10pt'.
 (scrartcl)             If you'd like to set the option with \KOMAoptions,
 (scrartcl)             you'd have to use `fontsize=10pt' there
 (scrartcl)             instead of `10pt', too.
-Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input line 2114.
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
-File: scrsize10pt.clo 2018/03/30 v3.25 KOMA-Script font size class option (10pt)
-) (/usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
-Package: typearea 2018/03/30 v3.25 KOMA-Script package (type area)
+Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input l
+ine 2059.
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/scrsize10pt.clo
+File: scrsize10pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (10pt
+)
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
 \ta@bcor=\skip42
-\ta@div=\count80
+\ta@div=\count79
 \ta@hblk=\skip43
 \ta@vblk=\skip44
 \ta@temp=\skip45
@@ -60,48 +79,45 @@ Package typearea Info: These are the values describing the layout:
 (typearea)              \topskip        = 10.0pt
 (typearea)              \footskip       = 42.0pt
 (typearea)              \baselineskip   = 12.0pt
-(typearea)              on input line 1706.
+(typearea)              on input line 1647.
 )
-\c@part=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
 \scr@dte@part@maxnumwidth=\skip47
 \scr@dte@section@maxnumwidth=\skip48
 \scr@dte@subsection@maxnumwidth=\skip49
 \scr@dte@subsubsection@maxnumwidth=\skip50
 \scr@dte@paragraph@maxnumwidth=\skip51
 \scr@dte@subparagraph@maxnumwidth=\skip52
+LaTeX Info: Redefining \textsubscript on input line 4094.
 \abovecaptionskip=\skip53
 \belowcaptionskip=\skip54
 \c@pti@nb@sid@b@x=\box27
-\scr@dte@figure@maxnumwidth=\skip55
-Package tocbasic Info: omitting babel extension for `lof'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lof' on input line 5439.
-\c@figure=\count87
-\scr@dte@table@maxnumwidth=\skip56
-Package tocbasic Info: omitting babel extension for `lot'
-(tocbasic)             because of feature `nobabel' available
-(tocbasic)             for `lot' on input line 5451.
-\c@table=\count88
-Class scrartcl Info: Redefining `\numberline' on input line 5615.
+\c@figure=\count86
+\c@table=\count87
+Class scrartcl Info: Redefining `\numberline' on input line 5233.
 \bibindent=\dimen102
-) (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
-) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-) (/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
 \Gm@bindingoffset=\dimen103
 \Gm@wd@mp=\dimen104
 \Gm@odd@mp=\dimen105
@@ -111,16 +127,22 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen109
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
-) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/bookman.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/psnfss/bookman.sty
 Package: bookman 2005/04/12 PSNFSS-v9.2a (SPQR) 
-) (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count92
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count91
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+
+
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
@@ -131,15 +153,21 @@ Package hobsub Info: Skipping package `ifvtex' (already loaded).
 Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
 Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
 Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
 )
@@ -151,94 +179,106 @@ Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
 Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
 Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
 Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/auxhook.sty
+) (d:/Installed/texlive/2017/texmf-dist/tex/latex/oberdiek/auxhook.sty
 Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
 \@linkdim=\dimen111
-\Hy@linkcounter=\count93
-\Hy@pagecounter=\count94
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
+\Hy@linkcounter=\count92
+\Hy@pagecounter=\count93
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count95
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+\Hy@SavedSpaceFactor=\count94
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Hyper figures OFF on input line 4509.
-Package hyperref Info: Link nesting OFF on input line 4514.
-Package hyperref Info: Hyper index ON on input line 4517.
-Package hyperref Info: Plain pages OFF on input line 4524.
-Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4762.
-\c@Hy@tempcnt=\count96
- (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count95
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5115.
+LaTeX Info: Redefining \url on input line 5104.
 \XeTeXLinkMargin=\dimen112
-\Fld@menulength=\count97
+\Fld@menulength=\count96
 \Field@Width=\dimen113
 \Fld@charsize=\dimen114
-Package hyperref Info: Hyper figures OFF on input line 6369.
-Package hyperref Info: Link nesting OFF on input line 6374.
-Package hyperref Info: Hyper index ON on input line 6377.
-Package hyperref Info: backreferencing OFF on input line 6384.
-Package hyperref Info: Link coloring OFF on input line 6389.
-Package hyperref Info: Link coloring with OCG OFF on input line 6394.
-Package hyperref Info: PDF/A mode OFF on input line 6399.
-LaTeX Info: Redefining \ref on input line 6439.
-LaTeX Info: Redefining \pageref on input line 6443.
-\Hy@abspage=\count98
-\c@Item=\count99
-\c@Hfootnote=\count100
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count97
+\c@Item=\count98
+\c@Hfootnote=\count99
 )
-Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
-\Fld@listcount=\count101
-\c@bookmark@seq@number=\count102
- (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count100
+\c@bookmark@seq@number=\count101
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
 )
-\Hy@SectionHShift=\skip57
-) (/usr/share/texlive/texmf-dist/tex/latex/marvosym/marvosym.sty
+\Hy@SectionHShift=\skip55
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/marvosym/marvosym.sty
 Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
-) (/usr/share/texlive/texmf-dist/tex/latex/needspace/needspace.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/needspace/needspace.sty
 Package: needspace 2010/09/12 v1.3d reserve vertical space
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
-Package: tabularx 2016/02/03 v2.11b `tabularx' package (DPC)
- (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/04/30 v2.4h Tabular extension package (FMi)
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/tools/array.sty
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \col@sep=\dimen115
-\ar@mcellbox=\box28
 \extrarowheight=\dimen116
 \NC@list=\toks16
-\extratabsurround=\skip58
-\backup@length=\skip59
-\ar@cellbox=\box29
+\extratabsurround=\skip56
+\backup@length=\skip57
 )
 \TX@col@width=\dimen117
 \TX@old@table=\dimen118
 \TX@old@col=\dimen119
 \TX@target=\dimen120
 \TX@delta=\dimen121
-\TX@cols=\count103
+\TX@cols=\count102
 \TX@ftn=\toks17
-) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+\Gread@gobject=\count103
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
@@ -252,45 +292,71 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 62.
 Package hyperref Info: Option `breaklinks' set `true' on input line 62.
-) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2018/06/05 3.22 The Babel package
- (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2018/06/05 3.22 Babel switching mechanism
-) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
-Language: english 2017/06/06 v3.3r English support from the babel system
- (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2018/06/05 3.22 Babel common definitions
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
 \babel@savecnt=\count104
 \U@D=\dimen122
- (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count105
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
-)) (/home/pc-17/Desktop/CV/cv.aux)
+))
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2004/02/20 v4.1e the supertabular environment
+\c@tracingst=\count105
+\ST@wd=\dimen123
+\ST@rightskip=\skip58
+\ST@leftskip=\skip59
+\ST@parfillskip=\skip60
+\ST@pageleft=\dimen124
+\ST@headht=\dimen125
+\ST@tailht=\dimen126
+\ST@pagesofar=\dimen127
+\ST@pboxht=\dimen128
+\ST@lineht=\dimen129
+\ST@stretchht=\dimen130
+\ST@prevht=\dimen131
+\ST@toadd=\dimen132
+\ST@dimen=\dimen133
+\ST@pbox=\box28
+)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesome.sty
+Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-
+generic.tex)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-
+pdftex.tex)) (./cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Try loading font information for OT1+pbk on input line 4.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pbk.fd
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Try loading font information for OT1+pbk on input line 12.
+
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pbk.fd
 File: ot1pbk.fd 2001/06/04 font definitions for OT1/pbk.
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 4.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 12.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -326,137 +392,178 @@ LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <10> not available
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring ON on input line 4.
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+\AtBeginShipoutBox=\box29
+Package hyperref Info: Link coloring ON on input line 12.
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
- (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+
+(d:/Installed/texlive/2017/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count106
 )
-LaTeX Info: Redefining \ref on input line 4.
-LaTeX Info: Redefining \pageref on input line 4.
-LaTeX Info: Redefining \nameref on input line 4.
- (/home/pc-17/Desktop/CV/cv.out) (/home/pc-17/Desktop/CV/cv.out)
+LaTeX Info: Redefining \ref on input line 12.
+LaTeX Info: Redefining \pageref on input line 12.
+LaTeX Info: Redefining \nameref on input line 12.
+(./cv.out) (./cv.out)
 \@outlinefile=\write3
 \openout3 = `cv.out'.
 
- (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(d:/Installed/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count107
-\scratchdimen=\dimen123
-\scratchbox=\box31
+\scratchdimen=\dimen134
+\scratchbox=\box30
 \nofMPsegments=\count108
 \nofMParguments=\count109
 \everyMPshowfont=\toks18
 \MPscratchCnt=\count110
-\MPscratchDim=\dimen124
+\MPscratchDim=\dimen135
 \MPnumerator=\count111
 \makeMPintoPDFobject=\count112
 \everyMPtoPDFconversion=\toks19
 )
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <24.88> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 6.
-LaTeX Font Info:    Try loading font information for OT1+pzc on input line 6.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pzc.fd
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 14.
+LaTeX Font Info:    Try loading font information for OT1+pzc on input line 14.
+ (d:/Installed/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pzc.fd
 File: ot1pzc.fd 2001/06/04 font definitions for OT1/pzc.
 )
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <10> not available
-(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 6.
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <24.88> not available
-(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 6.
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 8.
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 16.
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 8.
-\raising=\dimen125
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 16.
+\raising=\dimen136
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 14.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 14.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 22.
 
-Overfull \hbox (5.74222pt too wide) in paragraph at lines 14--15
+Overfull \hbox (5.23293pt too wide) in paragraph at lines 24--25
+\OT1/pbk/l/n/10 im-ple-men-ta-tion of ob-ject de-tec-tion and ob-ject track-
+ []
+
+
+Overfull \hbox (12.13606pt too wide) in paragraph at lines 28--29
+\OT1/pbk/l/it/14.4 Soft-ware and Hard-ware De-vel-op-ment
+ []
+
+
+Overfull \hbox (15.91231pt too wide) in paragraph at lines 30--31
+\OT1/pbk/l/n/10 data from an OS-RAM Opto Semi-con-duc-tor (SFH7070).
+ []
+
+
+Overfull \hbox (12.76224pt too wide) in paragraph at lines 42--43
+[]\OT1/pbk/l/n/10 Hardware pro-gram-ming for STM32 Arm Cor-tex MCUs
+ []
+
+
+Overfull \hbox (5.74222pt too wide) in paragraph at lines 46--47
 \OT1/pbk/l/it/14.4 Soft-ware De-vel-op-ment and Re-search
  []
 
 
-Overfull \hbox (7.48247pt too wide) in paragraph at lines 22--24
-[]\OT1/pbk/l/n/10 Hardware pro-gram-ming on STM32 Dis-cov-ery boards
- []
-
-
-Overfull \hbox (5.74222pt too wide) in paragraph at lines 28--29
-\OT1/pbk/l/it/14.4 Soft-ware De-vel-op-ment and Re-search
- []
-
-
-Overfull \hbox (0.6639pt too wide) in paragraph at lines 37--41
+Overfull \hbox (0.6639pt too wide) in paragraph at lines 55--56
 []\OT1/pbk/l/n/10 Implementing IoT pro-to-cols (e.g., Zig-bee) and work-
  []
 
-\boxwidth=\dimen126
-(/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+
+Overfull \hbox (9.71233pt too wide) in paragraph at lines 55--56
+\OT1/pbk/l/n/10 for test and sim-u-late smart grids at [][]Farineh Fanavar[][].
+ 
+ []
+
+\boxwidth=\dimen137
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/marvosym/umvs.fd)
+(d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd)
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--64
 []|[][]\OT1/pbk/l/n/10 www.linkedin.com/in/mohammad-
  []
 
-\raising=\dimen127
+\raising=\dimen138
 
-Underfull \hbox (badness 6691) in paragraph at lines 60--60
-[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
- []
-
-
-Underfull \hbox (badness 6691) in paragraph at lines 60--60
-[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
- []
-
-\raising=\dimen128
-
-Underfull \hbox (badness 2772) in paragraph at lines 88--88
-[]|\OT1/pbk/l/it/10 Editing go-ethereum(official Go im-ple-
- []
-
-
-Underfull \hbox (badness 2564) in paragraph at lines 88--88
-\OT1/pbk/l/it/10 men-ta-tion of Ethereum pro-to-col) and
- []
-
-
-Underfull \hbox (badness 1077) in paragraph at lines 88--88
+Underfull \hbox (badness 1077) in paragraph at lines 110--110
 []|\OT1/pbk/l/it/10 Writing smart con-tracts us-ing so-lid-ity
  []
 
-\raising=\dimen129
-\unbaseline=\dimen130
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+\raising=\dimen139
+[1{d:/Installed/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
- [2
+Underfull \hbox (badness 6691) in paragraph at lines 123--123
+[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
+ []
 
-] (/home/pc-17/Desktop/CV/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+
+Underfull \hbox (badness 6691) in paragraph at lines 123--123
+[]|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
+ []
+
+\raising=\dimen140
+
+Overfull \hbox (42.40831pt too wide) in paragraph at lines 126--131
+[] 
+ []
+
+\raising=\dimen141
+\unbaseline=\dimen142
+\raising=\dimen143
+\unbaseline=\dimen144
+\raising=\dimen145
+
+Overfull \hbox (52.39197pt too wide) in paragraph at lines 154--175
+[] 
+ []
+
+
+Overfull \hbox (52.39197pt too wide) in paragraph at lines 175--180
+[] 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+[2]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+ (./cv.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8862 strings out of 492641
- 139078 string characters out of 6131786
- 351844 words of memory out of 5000000
- 12670 multiletter control sequences out of 15000+600000
- 15735 words of font info for 36 fonts, out of 8000000 for 9000
+ 10414 strings out of 492995
+ 158892 string characters out of 6131752
+ 361272 words of memory out of 5000000
+ 13872 multiletter control sequences out of 15000+600000
+ 16051 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,11n,53p,9132b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on /home/pc-17/Desktop/CV/cv.pdf (2 pages, 63364 bytes).
+ 47i,11n,53p,8843b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
+{d:/Installed/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}{d:/Install
+ed/texlive/2017/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}<d:/I
+nstalled/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
+><d:/Installed/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
+><d:/Installed/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb>
+<d:/Installed/texlive/2017/texmf-dist/fonts/type1/public/marvosym/marvosym.pfb>
+<d:/Installed/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb><d:/In
+stalled/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb><d:/Installe
+d/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb><d:/Installed/tex
+live/2017/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
+Output written on cv.pdf (2 pages, 93643 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 40 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 500000)
+ 87 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
+ 10 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
