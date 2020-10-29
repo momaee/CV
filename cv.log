@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2020.7.30)  11 OCT 2020 13:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2020.7.30)  13 OCT 2020 01:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -435,33 +435,33 @@ LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <10> not available
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <24.88> not available
 (Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 16.
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 20.
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 16.
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 20.
 \raising=\dimen136
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 22.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 22.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 26.
 
-Overfull \hbox (8.24481pt too wide) in paragraph at lines 24--25
+Overfull \hbox (8.24481pt too wide) in paragraph at lines 28--29
 \OT1/pbk/l/n/10 stream, with help of com-puter vi-sion and deep learn-
  []
 
 \raising=\dimen137
 
-Underfull \hbox (badness 6691) in paragraph at lines 74--74
+Underfull \hbox (badness 6691) in paragraph at lines 78--78
 []|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
  []
 
 
-Underfull \hbox (badness 6691) in paragraph at lines 74--74
+Underfull \hbox (badness 6691) in paragraph at lines 78--78
 []|\OT1/pbk/db/n/10 Electrical En-gi-neer-ing -
  []
 
 \raising=\dimen138
 
-Overfull \hbox (48.76944pt too wide) in paragraph at lines 77--82
+Overfull \hbox (48.76944pt too wide) in paragraph at lines 81--86
 [] 
  []
 
@@ -469,35 +469,30 @@ Overfull \hbox (48.76944pt too wide) in paragraph at lines 77--82
 (d:/Installed/texlive/2017/texmf-dist/tex/latex/marvosym/umvs.fd)
 (d:/Installed/texlive/2017/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd)
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
 []|[][]\OT1/pbk/l/n/10 www.linkedin.com/in/mohammad-
  []
 
 \raising=\dimen140
-
-Underfull \hbox (badness 1117) in paragraph at lines 132--132
-[]|\OT1/pbk/l/it/10 Implemented Zig-bee pro-to-col on XBee
- []
-
 \raising=\dimen141
 \unbaseline=\dimen142
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 199.
 [1{d:/Installed/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 199.
 
 (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 199.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 199.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  10410 strings out of 492995
  158854 string characters out of 6131752
- 361257 words of memory out of 5000000
+ 360272 words of memory out of 5000000
  13871 multiletter control sequences out of 15000+600000
  16051 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -512,7 +507,7 @@ nstalled/texlive/2017/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
 stalled/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb><d:/Installe
 d/texlive/2017/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb><d:/Installed/tex
 live/2017/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on cv.pdf (1 page, 88396 bytes).
+Output written on cv.pdf (1 page, 88426 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
