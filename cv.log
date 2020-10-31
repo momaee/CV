@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.19)  31 OCT 2020 13:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.9.19)  31 OCT 2020 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -510,57 +510,52 @@ LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <10> not available
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <24.88> not available
 (Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 14.
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <10> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 16.
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 21.
 LaTeX Font Info:    Font shape `OT1/pbk/m/sc' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 16.
+(Font)              Font shape `OT1/pbk/l/sc' tried instead on input line 21.
 \raising=\dimen167
 LaTeX Font Info:    Font shape `OT1/pbk/m/n' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 22.
+(Font)              Font shape `OT1/pbk/l/n' tried instead on input line 27.
 LaTeX Font Info:    Font shape `OT1/pbk/m/it' in size <14.4> not available
-(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 22.
+(Font)              Font shape `OT1/pbk/l/it' tried instead on input line 27.
 
-Overfull \hbox (8.24481pt too wide) in paragraph at lines 24--25
+Overfull \hbox (8.24481pt too wide) in paragraph at lines 29--30
 \OT1/pbk/l/n/10 stream, with help of com-puter vi-sion and deep learn-
  []
 
 \raising=\dimen168
 \raising=\dimen169
 
-Overfull \hbox (48.76944pt too wide) in paragraph at lines 77--82
+Overfull \hbox (48.76944pt too wide) in paragraph at lines 82--87
 [] 
  []
 
 \boxwidth=\dimen170
 (/usr/share/texlive/texmf-dist/tex/latex/marvosym/umvs.fd)
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd)
-Underfull \hbox (badness 10000) in paragraph at lines 88--88
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
 []|[][]\OT1/pbk/l/n/10 www.linkedin.com/in/mohammad-
  []
 
 \raising=\dimen171
-
-Underfull \hbox (badness 1117) in paragraph at lines 132--132
-[]|\OT1/pbk/l/it/10 Implemented Zig-bee pro-to-col on XBee
- []
-
 \raising=\dimen172
 \unbaseline=\dimen173
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 187.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 200.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 187.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 200.
  (./cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 187.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 187.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 200.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 200.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  11615 strings out of 481239
  190343 string characters out of 5920377
- 598548 words of memory out of 5000000
+ 597548 words of memory out of 5000000
  26716 multiletter control sequences out of 15000+600000
  544749 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -574,7 +569,7 @@ s/type1/public/marvosym/marvosym.pfb></usr/share/texlive/texmf-dist/fonts/type1
 /urw/bookman/ubkd8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/
 ubkl8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/bookman/ubkli8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/urw/zapfchan/uzcmi8a.pfb>
-Output written on cv.pdf (1 page, 88407 bytes).
+Output written on cv.pdf (1 page, 88440 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
